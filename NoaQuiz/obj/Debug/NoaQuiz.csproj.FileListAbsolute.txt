@@ -1,0 +1,10 @@
+C:\Users\Yaniv\source\repos\NoaQuiz\NoaQuiz\bin\Debug\NoaQuiz.exe.config
+C:\Users\Yaniv\source\repos\NoaQuiz\NoaQuiz\bin\Debug\NoaQuiz.exe
+C:\Users\Yaniv\source\repos\NoaQuiz\NoaQuiz\bin\Debug\NoaQuiz.pdb
+C:\Users\Yaniv\source\repos\NoaQuiz\NoaQuiz\obj\Debug\NoaQuiz.csprojAssemblyReference.cache
+C:\Users\Yaniv\source\repos\NoaQuiz\NoaQuiz\obj\Debug\NoaQuiz.Form1.resources
+C:\Users\Yaniv\source\repos\NoaQuiz\NoaQuiz\obj\Debug\NoaQuiz.Properties.Resources.resources
+C:\Users\Yaniv\source\repos\NoaQuiz\NoaQuiz\obj\Debug\NoaQuiz.csproj.GenerateResource.cache
+C:\Users\Yaniv\source\repos\NoaQuiz\NoaQuiz\obj\Debug\NoaQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Yaniv\source\repos\NoaQuiz\NoaQuiz\obj\Debug\NoaQuiz.exe
+C:\Users\Yaniv\source\repos\NoaQuiz\NoaQuiz\obj\Debug\NoaQuiz.pdb
